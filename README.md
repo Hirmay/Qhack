@@ -1,4 +1,4 @@
-# Universal Quantum Algorithms inspired NISQ algorithm Implementation
+# NISQ algorithm implementation inspired from Universal Quantum Algorithms
 
 <h2>Qhack 2024</h2>
 <h4>Team - Quantum Questers</h4>
