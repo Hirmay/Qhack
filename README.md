@@ -7,7 +7,7 @@
 <UL>
   <LI>Ramachandran Sekanipuram Srikanthan</LI>
   <LI>Hirmay Sandesara</LI>
-  <LI>Steve</LI>
+  <LI>Yu-Cheng Lin</LI>
   <LI>Astor</LI>
 </UL>
 
