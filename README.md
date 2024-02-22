@@ -1,8 +1,3 @@
 # Qhack
 
-Going currently for Preparation for State and Seeing the future projects.
-
-<b>Amp_emb_realvalues.ipynb</b> - Tested Amplitude embedding using a PQC with 3 qubits and gradient free optimization. Fidelity - 98.27% <br/>
-<b>Amp_emb_realvalues_updatednormalized_Adamopt.ipynb</b> - Tested Amplitude embedding using a PQC with 3 qubits and Adam optimization. Fidelity - 41.40% <br/>
-<b>Amp_256values_real_gradientfree.ipynb</b> - Tested Amplitude embedding using a PQC with 8 qubits and gradient free optimization. Fidelity - 89.16% <br/>
-<b>Amp_256values_+ve_vereal_gradientfree.ipynb</b> - Tested Amplitude embedding for +ve and -ve values (approach 2) using a PQC with 3 qubits and gradient free optimization. Fidelity - 72.81% <br/>
+Our project addresses three categories, namely: "Preparing for Battle," "Seeing the Future," and "The Sound of Silence." A detailed write-up of our work is provided in the shared report. The Submission folder contains the code files and datasets used for generating the results presented in our report. The Approach 1 folder contains all the code files for the simulations used in Subsection 6.2.1, named Approach 1, while the Approach 2 folder contains code files for the simulations used in Subsection 6.2.2, named Approach 2. The Cat Qubits folder includes simulations done using the cat qubit framework with 8 and 12 qubits. The Open Systems Simulation folder contains simulations of example 1, which involve utilizing the state preparation method using Approach 1, computing the evolution unitary, and conducting the simulations. Furthermore, in the Package folder, we have created Python packages for our two approaches. Lastly, the Testing_drug_target_prediction_dataset contains the chEMBL dataset used in the report.
