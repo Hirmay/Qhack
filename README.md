@@ -13,7 +13,7 @@
 
 <h4>Power Ups and Acknowledgement</h4>
 
-<p> We want to express our sincere gratitude to the Xanadu staff, especially <b>Ivana</b>, for supporting and motivating us throughout the project and patiently guiding us through whatever small or big problems we encountered. In addition, we would like to thank Lauren Prost from Alice & Bob for inspiring us with his intriguing and interesting presentation and for providing us with support and helpful suggestions. Furthermore, we want to thank AWS, Denvr Dataworks, and NVIDIA for providing power ups to perform further and extensive experimentation of our project. </p>
+<p> We want to express our sincere gratitude to the Xanadu staff, especially <b>Ivana</b>, for supporting and motivating us throughout the project and patiently guiding us through whatever small or big problems we encountered. In addition, we would like to thank Lauren Prost from Alice & Bob for inspiring us with his intriguing and interesting presentation and for providing us with support and helpful suggestions. Furthermore, we want to thank AWS, Denvr Dataworks, and NVIDIA for providing us the power ups needed to perform further and extensive experimentation of our project. </p>
 
 <h4>Description</h4>
 
