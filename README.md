@@ -8,7 +8,7 @@
   <LI>Ramachandran Sekanipuram Srikanthan</LI>
   <LI>Hirmay Sandesara</LI>
   <LI>Yu-Cheng Lin</LI>
-  <LI>Astor</LI>
+  <LI>YuChao,Hsu</LI>
 </UL>
 
 <h4>Power Ups</h4>
