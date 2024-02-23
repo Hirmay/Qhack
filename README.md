@@ -11,9 +11,9 @@
   <LI>YuChao,Hsu</LI>
 </UL>
 
-<h4>Power Ups</h4>
+<h4>Power Ups and Acknowledgement</h4>
 
-<p> Thank you Xanadu, AWS and NVIDIA for providing power ups to perform furthur experimentation for our project. </p>
+<p> We want to express our sincere gratitude to the Xanadu staff, especially **Ivana**, for supporting and motivating us throughout the project and patiently guiding us through whatever small or big problems we encountered. In addition, we would like to thank Lauren Prost from Alice & Bob for inspiring us with his intriguing and interesting presentation and for providing us with support and helpful suggestions. Furthermore, we want to thank AWS, Denvr Dataworks, and NVIDIA for providing power ups to perform further and extensive experimentation of our project. </p>
 
 <h4>Description</h4>
 
