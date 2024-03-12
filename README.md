@@ -5,8 +5,8 @@
 
 <h4>Team members</h4>
 <UL>
-  <LI>Ramachandran Sekanipuram Srikanthan</LI>
-  <LI>Hirmay Sandesara</LI>
+  <LI>Ramachandran Sekanipuram Srikanthan (Main Contributors)</LI>
+  <LI>Hirmay Sandesara (Main Contributors)</LI>
   <LI>Yu-Cheng Lin</LI>
   <LI>YuChao,Hsu</LI>
 </UL>
